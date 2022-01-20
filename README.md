@@ -76,3 +76,16 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/features/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+# Tutorial
+
+## Link
+
+[Youtube video tutorial Turborepo](https://www.youtube.com/watch?v=YQLw5kJ1yrQ&t=915s)
+
+## command
+
+Example to add package to app project
+```
+yarn workspace [apps name] add --dev or any dependencies
+```
