@@ -81,11 +81,19 @@ Learn more about the power of Turborepo:
 
 ## Link
 
-[Youtube video tutorial Turborepo](https://www.youtube.com/watch?v=YQLw5kJ1yrQ&t=915s)
+[Youtube video tutorial Turborepo](https://youtu.be/YQLw5kJ1yrQ)
 
 ## command
 
 Example to add package to app project
 ```
 yarn workspace [apps name] add --dev or any dependencies
+```
+
+## Add App or New Project
+
+via bash move command
+
+```
+mv app myInposterSyndrome/apps
 ```
