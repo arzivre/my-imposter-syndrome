@@ -95,5 +95,5 @@ yarn workspace [apps name] add --dev or any dependencies
 via bash move command
 
 ```
-mv app myInposterSyndrome/apps
+mv app myImposterSyndrome/apps
 ```
